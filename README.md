@@ -3,8 +3,7 @@ Upload Autopilot Hardware hash to Azure Blob Storage
 
 ## Generate SAS Token
 
-- Go to the [storage account](https://portal.azure.com/#@rseoffice365.nl/resource/subscriptions/bbbcf70e-db3c-431f-9979-40d4b3d12179/resourcegroups/Autopilot-Hashes/providers/Microsoft.Storage/storageAccounts/rseautopilothash/containersList)
-
+- Go to the storage account
 
 - Create a new container
   ![New Container](images/New-Container.png)
