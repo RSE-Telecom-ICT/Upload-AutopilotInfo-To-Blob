@@ -18,7 +18,7 @@ Upload Autopilot Hardware hash to Azure Blob Storage
 
 ## Create task in Datto RMM
 
-- Go to Datto RMM and create a [new job](https://pinotage.rmm.datto.com/job)
+- Go to Datto RMM and create a new job
   ![Datto Create Job](images/Datto-Jobs.png)
 
 
@@ -38,7 +38,7 @@ Upload Autopilot Hardware hash to Azure Blob Storage
   ![Datto Duration](images/Datto-Create-Job-Duration.png)
 
 
-- Monitor the [job status](https://pinotage.rmm.datto.com/jobs/)
+- Monitor the job status
   ![Datto Status](images/Datto-Job-Status.png)
 
 ## Get the CSV's
