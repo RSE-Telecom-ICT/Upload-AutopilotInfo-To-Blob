@@ -20,7 +20,7 @@ else {
 
 #Check if Powershell Autopilot script is installed, if not install it 
 Write-Host "Checking if script Get-WindowsAutopilotInfo exists"
-if (Get-InstalledScript -Name Get-WindowsAutopilotInfo) {
+if (Get-InstalledScript -Name Get-WindowsAutopilotInfo -ErrorAction SilentlyContinue) {
     Write-Host "script Get-WindowsAutopilotInfo exists"
 } 
 else {
